@@ -6,7 +6,7 @@ const Bg = styled.div`
   top: 0px;
   left: 0px;
   background-color: var(--color-black);
-  width: 1440px;
+  width: 1520px;
   height: 394px;
 `;
 const LoremIpsumDolor = styled.div`
@@ -80,7 +80,7 @@ const FooterRoot = styled.div`
   position: absolute;
   top: 3181px;
   left: 0px;
-  width: 1440px;
+  width: 1520px;
   height: 394px;
   text-align: left;
   font-size: var(--regular-13-size);

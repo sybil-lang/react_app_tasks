@@ -165,7 +165,7 @@ const OurBlogsParentRoot = styled.div`
   top: 2248px;
   left: -1px;
   background-color: var(--color-gray-100);
-  width: 1440px;
+  width: 1520px;
   height: 933px;
   overflow: hidden;
   text-align: left;
